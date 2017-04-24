@@ -15,6 +15,8 @@ evaluation.html
 teacher note.html
 fun coner.html
 about me.html
+sitemap.xml
+robots.txt
 index_html_files/1558.png
 index_html_files/1558@2x.png
 index_html_files/1589.png
@@ -46,8 +48,8 @@ index_html_files/1594.png
 index_html_files/1594@2x.png
 index_html_files/1595.png
 index_html_files/1595@2x.png
-index_html_files/1302.png
-index_html_files/1302@2x.png
+index_html_files/1620.png
+index_html_files/1620@2x.png
 index_html_files/1596.png
 index_html_files/1596@2x.png
 index_html_files/1597.png
